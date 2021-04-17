@@ -22,7 +22,7 @@
 }
 
 body {
-    color: #666666;
+    color: #00243e;
     font-size: 14px;
     font-family: 'poppins', sans-serif;
     line-height: 1.80857;
@@ -297,7 +297,7 @@ a.readmore_bt {
 
 .main_bt:hover,
 .main_bt:focus {
-    background: #ff1616;
+    background: #0087e8;
     border: solid black 5px;
     color: #fff;
 }
@@ -419,8 +419,9 @@ a.readmore_bt {
 
 /*--------------------------------------------------------------------- header area ---------------------------------------------------------------------*/
 .header {
-    background: #181918;
+    background: #00243e;
     padding: 10px 0px;
+    border-bottom: 2px solid white;
 }
 
 .logo {
@@ -434,11 +435,11 @@ nav.main-menu {
 
 .menu-area-main li:hover a,
 .menu-area-main li:focus a {
-    color: #ff1616;
+    color: #0087e8;
 }
 
 .menu-area-main li.active a {
-    color: #ff1616;
+    color: #0087e8;
 }
 
 .right_cart_section {
@@ -1619,7 +1620,7 @@ input[type="radio"] .styled:checked + label::after {
 .banner-main .carousel-caption h1 {
     font-size: 76px;
     line-height: 80px;
-    color: #ff1616;
+    color: #00243e;
     font-weight: bold;
 }
 
@@ -1642,7 +1643,7 @@ input[type="radio"] .styled:checked + label::after {
 }
 
 .carousel-indicators .active {
-    background-color: #ff1616;
+    background-color: #0087e8;
 }
 
 .carousel-indicators li {
@@ -1674,7 +1675,7 @@ input[type="radio"] .styled:checked + label::after {
 
 .aboutheading {
     text-align: center;
-    border: #ff1616 solid 1px;
+    border: #0087e8 solid 1px;
 }
 
 .aboutheading h2 {
@@ -1713,7 +1714,7 @@ input[type="radio"] .styled:checked + label::after {
 
 .about .aboutimg a:hover {
     color: #fff;
-    background-color: #ff1616;
+    background-color: #0087e8;
 }
 
 .Coach {
@@ -1729,7 +1730,7 @@ input[type="radio"] .styled:checked + label::after {
 .Coach .titlepage h2 {
     line-height: 72px;
     font-size: 40px;
-    color: #ff1616;
+    color: #0087e8;
 }
 
 .need {
@@ -1791,7 +1792,7 @@ input[type="radio"] .styled:checked + label::after {
 }
 
 .red_bg {
-    background-color: #4a0808;
+    background-color: #00243e;
 }
 
 .guaranteed figure {
@@ -1948,13 +1949,13 @@ input[type="radio"] .styled:checked + label::after {
 }
 
 .send-btn:hover {
-    background-color: darkred;
+    background-color: #0087e8;
     border: black solid 2px;
     color: #fff;
 }
 
 .footer {
-    background-color: #470a0a;
+    background-color: #00243e;
     padding-bottom: 36px;
 }
 
